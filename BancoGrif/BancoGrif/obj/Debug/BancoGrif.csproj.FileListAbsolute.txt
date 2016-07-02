@@ -1,0 +1,8 @@
+c:\users\diego\documents\visual studio 2012\Projects\BancoGrif\BancoGrif\bin\Debug\BancoGrif.exe.config
+C:\Users\DIEGO\documents\visual studio 2012\Projects\BancoGrif\BancoGrif\obj\Debug\BancoGrif.csprojResolveAssemblyReference.cache
+C:\Users\DIEGO\documents\visual studio 2012\Projects\BancoGrif\BancoGrif\obj\Debug\BancoGrif.Properties.Resources.resources
+C:\Users\DIEGO\documents\visual studio 2012\Projects\BancoGrif\BancoGrif\obj\Debug\BancoGrif.csproj.GenerateResource.Cache
+C:\Users\DIEGO\documents\visual studio 2012\Projects\BancoGrif\BancoGrif\bin\Debug\BancoGrif.exe
+C:\Users\DIEGO\documents\visual studio 2012\Projects\BancoGrif\BancoGrif\bin\Debug\BancoGrif.pdb
+C:\Users\DIEGO\documents\visual studio 2012\Projects\BancoGrif\BancoGrif\obj\Debug\BancoGrif.exe
+C:\Users\DIEGO\documents\visual studio 2012\Projects\BancoGrif\BancoGrif\obj\Debug\BancoGrif.pdb
