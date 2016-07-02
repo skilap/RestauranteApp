@@ -1,0 +1,115 @@
+{margin: 0px;padding: 0px}
+
+body{
+ 
+    width: 1350px;
+    height: 700px;
+   background-image: url(imagenes/fondo.jpg);
+background-repeat:round;
+    
+}
+
+#Contenedor{
+    float: inherit;
+    position: absolute;
+    height: 510px;
+    width: 220px;
+    margin-left: 20px;
+    background-color: transparent;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+#logo{
+    position: relative;
+    height: 48%;
+    width: 100%;
+    background-image:url(imagenes/logo.jpg);
+   background-size:cover;
+    background-repeat:round;
+     border-bottom:  1px dashed #bbb;
+    background-color: chocolate;
+    opacity: 1.0;
+}
+#nav{
+    position: relative;
+    height: 40%;
+    width: 100%;
+    background-color:white;
+    opacity: 0.8;
+    
+
+}
+#nav a{
+    display: block;
+    text-decoration:none;
+    width: 94%;
+    height: 19.5%;
+    float: left;
+ border-bottom:  1px dashed #bbb;
+    font-size: 1.6em;
+    color: #444;
+    padding-left: 12px;
+    font-family: GarageGothic-Regular;
+      
+}
+#nav a:hover{
+    background: #76d6a3;
+    color:aliceblue;
+}
+nav{
+    position: relative;
+    height: 12%;
+    width: 100%;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    background-color: transparent;
+    opacity: 0.8;
+ }
+nav a{
+    position: relative;
+    height: 99%;
+    width: 33.3%;
+    float: left;
+    background-color:white;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 40px;
+    text-align: center;
+   
+}
+
+#Cuerpo1{
+    position:absolute;
+    width: 400px;
+    height: 300px;
+   float: left;
+    margin-left: 310px;
+    margin-top: 230px;
+    border-bottom-left-radius: 30%;
+    border-top-right-radius: 30%;
+    background-color: white;
+    opacity: 0.9;
+    overflow:hidden;
+    text-align: justify;
+    padding: 35px;
+   
+}
+#Cuerpo2{
+    position: relative;
+    width: 300px;
+    height: 200px;
+   float: left;
+    margin-left: 620px;
+    margin-top: 410px;
+    border-bottom-right-radius: 30%;
+    border-top-left-radius:  30%;
+    background-color: white;
+    opacity: 0.9;
+    overflow: hidden;
+    text-align: justify;
+    padding: 35px;
+    border-style: solid;
+}
+#Cuerpo1, #Cuerpo2 p{
+    font-family: GarageGothic-Regular;
+    font-size: 1.3em;
+}
